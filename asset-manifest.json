@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hamburger-menu-with-react-gsap/static/css/main.26e08bb7.chunk.css",
+    "main.js": "/hamburger-menu-with-react-gsap/static/js/main.5ae45743.chunk.js",
+    "main.js.map": "/hamburger-menu-with-react-gsap/static/js/main.5ae45743.chunk.js.map",
+    "runtime-main.js": "/hamburger-menu-with-react-gsap/static/js/runtime-main.d012e8b7.js",
+    "runtime-main.js.map": "/hamburger-menu-with-react-gsap/static/js/runtime-main.d012e8b7.js.map",
+    "static/js/2.7d22750b.chunk.js": "/hamburger-menu-with-react-gsap/static/js/2.7d22750b.chunk.js",
+    "static/js/2.7d22750b.chunk.js.map": "/hamburger-menu-with-react-gsap/static/js/2.7d22750b.chunk.js.map",
+    "index.html": "/hamburger-menu-with-react-gsap/index.html",
+    "precache-manifest.3b882f1bf25e0c3aead326277fd93051.js": "/hamburger-menu-with-react-gsap/precache-manifest.3b882f1bf25e0c3aead326277fd93051.js",
+    "service-worker.js": "/hamburger-menu-with-react-gsap/service-worker.js",
+    "static/css/main.26e08bb7.chunk.css.map": "/hamburger-menu-with-react-gsap/static/css/main.26e08bb7.chunk.css.map",
+    "static/media/delhi.jpg": "/hamburger-menu-with-react-gsap/static/media/delhi.50b125a5.jpg",
+    "static/media/kashmir.jpg": "/hamburger-menu-with-react-gsap/static/media/kashmir.6b278153.jpg",
+    "static/media/leh.jpg": "/hamburger-menu-with-react-gsap/static/media/leh.1704b107.jpg",
+    "static/media/manali1.jpg": "/hamburger-menu-with-react-gsap/static/media/manali1.621718d5.jpg",
+    "static/media/mum.jpg": "/hamburger-menu-with-react-gsap/static/media/mum.6b9bf772.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d012e8b7.js",
+    "static/js/2.7d22750b.chunk.js",
+    "static/css/main.26e08bb7.chunk.css",
+    "static/js/main.5ae45743.chunk.js"
+  ]
+}
